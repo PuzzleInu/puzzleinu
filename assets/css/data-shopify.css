@@ -1,0 +1,82 @@
+/*root {
+    --color-text: ;
+    --color-text-rgb: ;
+    --color-body-text: #1c1d1d;
+    --color-sale-text: ;
+    --color-small-button-text-border: ;
+    --color-text-field: ;
+    --color-text-field-text: ;
+    --color-text-field-text-rgb: ;
+
+    --color-btn-primary: #1c1d1d;
+    --color-btn-primary-darker: #030303;
+    --color-btn-primary-text: #fff;
+
+    --color-blankstate: rgba(28, 29, 29, 0.35);
+    --color-blankstate-border: rgba(28, 29, 29, 0.2);
+    --color-blankstate-background: rgba(28, 29, 29, 0.1);
+
+    --color-text-focus:Liquid error: Could not find asset snippets/adaptive-color.liquid;
+    --color-overlay-text-focus:Liquid error: Could not find asset snippets/adaptive-color.liquid;
+    --color-btn-primary-focus:Liquid error: Could not find asset snippets/adaptive-color.liquid;
+    --color-btn-social-focus:Liquid error: Could not find asset snippets/adaptive-color.liquid;
+    --color-small-button-text-border-focus:Liquid error: Could not find asset snippets/adaptive-color.liquid;
+    --predictive-search-focus:Liquid error: Could not find asset snippets/adaptive-color.liquid;
+
+    --color-body: #ffffff;
+    --color-bg: #ffffff;
+    --color-bg-rgb: 255, 255, 255;
+    --color-bg-alt: rgba(28, 29, 29, 0.05);
+    --color-bg-currency-selector: rgba(28, 29, 29, 0.2);
+
+    --color-overlay-title-text: ;
+    --color-image-overlay: #000;
+    --color-image-overlay-rgb: 0, 0, 0;--opacity-image-overlay: 0.0;--hover-overlay-opacity: 0.4;
+
+    --color-border: #1c1d1d;
+    --color-border-form: ;
+    --color-border-form-darker: ;
+
+    --svg-select-icon: url(https://cdn.shopify.com/s/files/1/0388/4833/1916/t/73/assets/ico-select.svg?v=112633043444535524021649593476);
+    --slick-img-url: url(https://cdn.shopify.com/s/files/1/0388/4833/1916/t/73/assets/ajax-loader.gif?36721);
+
+    --font-weight-body--bold: 700;
+    --font-weight-body--bolder: 700;
+
+    --font-stack-header: , ;
+    --font-style-header: ;
+    --font-weight-header: ;
+
+    --font-stack-body: , ;
+    --font-style-body: ;
+    --font-weight-body: ;
+
+    --font-size-header: 32;
+
+    --font-size-base: 16;
+
+    --font-h1-desktop: 43;
+    --font-h1-mobile: 40;
+    --font-h2-desktop: 24;
+    --font-h2-mobile: 22;
+    --font-h3-mobile: 24;
+    --font-h4-desktop: 21;
+    --font-h4-mobile: 19;
+    --font-h5-desktop: 18;
+    --font-h5-mobile: 16;
+    --font-h6-desktop: 17;
+    --font-h6-mobile: 15;
+
+    --font-mega-title-large-desktop: 80;
+
+    --font-rich-text-large: 18;
+    --font-rich-text-small: 14;
+
+    
+--color-video-bg: #f2f2f2;
+
+    
+    --global-color-image-loader-primary: ;
+    --global-color-image-loader-secondary: ;
+  }
+*/
