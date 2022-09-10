@@ -110,3 +110,38 @@
     font-size: 15px;
     margin-bottom: 10px;
 }
+
+#reward--section .reward--custom--container {
+    display: block;
+    align-items: center;
+}
+
+.reward--custom--container {
+    border: 4px solid #1096da;
+    padding: 10px 52px;
+    border-radius: 45px;
+}
+
+.tax p {
+    border: 3px solid red;
+    margin: 9px;
+    padding: 5px 10px;
+    border-radius: 45px;
+    background: yellow;
+}
+
+.reward--custom--container {
+    border: 4px solid #1096da;
+    padding: 10px 20px 10px 20px;
+    border-radius: 45px;
+    text-align: center;
+}
+
+.partner_section .partner--logo {
+    filter: gray;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+    opacity: .6;
+    padding: 0 20px;
+    height: 50px;
+}
