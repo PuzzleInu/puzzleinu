@@ -1,8 +1,8 @@
 .astraunot--img {
     position: absolute;
     top: 50%;
-    right: -129px;
-    width: 51% !important;
+    right: 27px;
+    width: 45% !important;
     transform: translateY(-50%);
 }
 
@@ -100,7 +100,7 @@
 
 .new--footer--section .new--footer--logo {
     margin-bottom: 60px;
-    width: 172px;
+    width: 346px;
 }
 
 .new--footer--section p {
