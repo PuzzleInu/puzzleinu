@@ -1,8 +1,8 @@
 .astraunot--img {
     position: absolute;
     top: 50%;
-    right: 27px;
-    width: 45% !important;
+    right: 16px;
+    width: 49% !important;
     transform: translateY(-50%);
 }
 
